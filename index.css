@@ -1,0 +1,18 @@
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+.image1 {
+    width: 450px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 24px monospace
+}
